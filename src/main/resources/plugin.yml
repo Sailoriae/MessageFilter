@@ -1,6 +1,7 @@
 name: MessageFilter
 main: me.fromgate.messagefilter.MessageFilter
-version: 0.3.3
+version: ${project.version}
+api-version: ${spigot.api.version}
 author: fromgate, fromgate@gmail.com
 depend: [ProtocolLib]
 commands:
